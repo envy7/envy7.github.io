@@ -584,9 +584,10 @@ a img{
     
 .center {
   display:block;
-  margin:0 auto;
-  max-width: 150px;
+  margin: 0 auto;
   padding:20px;
+  max-width: 25vw;  
+  max-height: 25vw;
 }
 
 
@@ -647,3 +648,5 @@ a {
 .fa-twitter {
   margin-top: 20px;
 }
+
+
