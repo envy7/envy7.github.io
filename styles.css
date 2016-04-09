@@ -576,17 +576,17 @@ a img{
   border-radius: 100px;
 }
 
-  
-  
+
+
 #map {
   height: 450px;
 }
-    
+
 .center {
   display:block;
   margin: 0 auto;
   padding:20px;
-  max-width: 25vw;  
+  max-width: 25vw;
   max-height: 25vw;
 }
 
@@ -616,7 +616,7 @@ a img{
 .crawltext {
   font-size: 5vw;
   color:#fff;
-  font-family: 'Fira Sans', sans-serif; 
+  font-family: 'Fira Sans', sans-serif;
 }
 
 @media (max-width: 600px){
@@ -626,8 +626,8 @@ a img{
 }
 
 #logo {
-  max-width: 36%;
-  max-height:36%;
+  max-width: 36vw;
+  max-height:36vw;
 }
 
 @media (max-width: 600px) {
@@ -651,5 +651,5 @@ a {
 
 
 .fa:hover {
-  font-size: 45px;
+  font-size: 50px;
 };
