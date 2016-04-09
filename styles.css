@@ -650,6 +650,7 @@ a {
 }
 
 
-.fa:hover {
+.a:hover {
   font-size: 50px;
+  color:#8bc34a;
 };
