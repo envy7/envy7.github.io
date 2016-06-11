@@ -615,7 +615,7 @@ a img{
 
 .mdl-mega-footer--social-btn{
   background-color: #fafafa;
-  cursor: pointer;
+  cursor:pointer;
 }
 
 .crawltext {
@@ -635,7 +635,14 @@ a img{
   max-height:36vw;
 }
 
-@media (max-width: 600px) {
+@media screen and (max-width: 600px) and (min-width: 400px) {
+  #logo {
+    max-height: 50%;
+    max-width: 50%;
+  }
+}
+
+@media (max-width: 400px) {
   #logo {
     max-height: 80%;
     max-width: 80%;
