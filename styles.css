@@ -614,7 +614,8 @@ a img{
 }
 
 .mdl-mega-footer--social-btn{
-  background-color: white;
+  background-color: #fafafa;
+  cursor: pointer;
 }
 
 .crawltext {
