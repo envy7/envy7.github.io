@@ -20,7 +20,7 @@
   -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
           flex-shrink: 0;
-  background-image: url('images/hackinout.jpg');
+  background-image: url('../images/hackinout.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -72,7 +72,7 @@
 .demo-card-wide > .mdl-card__title {
   color: #fff;
   height: 30vh;
-  background: url('images/hackathon1.jpg') center / cover;
+  background: url('../images/hackathon1.jpg') center / cover;
 }
 
 
