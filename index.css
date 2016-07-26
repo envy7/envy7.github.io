@@ -634,10 +634,11 @@ a img{
 
 .team, .contact,.footer {
   color:#6ab344;
+  background-color: #fff;
 }
 
 .mdl-mega-footer--social-btn{
-  background-color: #fafafa;
+  background-color: #fff;
   cursor:pointer;
 }
 
