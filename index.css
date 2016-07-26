@@ -405,7 +405,7 @@ a img{
   }
 
 .android-customized-section-image {
-  background: url('images/devices.jpg') center top no-repeat;
+  background: url('../images/devices.jpg') center top no-repeat;
   background-size: cover;
   height: 400px;
 }
@@ -483,6 +483,16 @@ a img{
     position: relative;
   }
 
+  .mdl-mega-footer--center-section{
+    position:absolute;
+    top:0px;
+    right:0px;
+    left:0px;
+    bottom: 0px;
+    margin: auto;
+    width: 230px;
+  }
+
   .android-footer .mdl-mega-footer--bottom-section a {
     margin-right: 2em;
   }
@@ -495,6 +505,15 @@ a img{
 
 .android-link-menu:hover {
   cursor: pointer;
+}
+
+.social-btn-cnt{
+  margin: 0 auto;
+  margin-left:25px;
+}
+
+.mdl-mega-footer--center-section > p{
+  margin-top: 10px;
 }
 
 
@@ -669,4 +688,4 @@ a {
 .a:hover {
   font-size: 50px;
   color:#8bc34a;
-};
+}
