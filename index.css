@@ -114,6 +114,9 @@ width 0.2s cubic-bezier(0.4, 0, 0.2, 1);}
 .team, .contact,.footer{color:#6ab344;background-color:#fff;}
 .mdl-mega-footer--social-btn{background-color:#fff;cursor:pointer;}
 .crawltext{font-size:5vw;color:#fff;font-family:'Fira Sans', sans-serif;}
+@media screen and (max-width:1024px) and (min-width:768px){.side-padding{width:0px !important;}
+}
+
 @media (max-width:600px){.crawltext{font-size:8vw;}
 }
 #logo{max-width:36vw;max-height:36vw;}
